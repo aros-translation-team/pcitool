@@ -1,4 +1,4 @@
-## version $VER: pcitool.catalog 1.1 (06.02.2004)
+## version $VER: pcitool.catalog 2.0 (06.08.2026)
 ## language français
 ## codeset 0
 ;
@@ -148,14 +148,38 @@ MSG_NOT
 ;not
 ;
 MSG_SIZE4
-%s%s à 0x04x (taille 0x%04x)
+%s à 0x%04x (taille 0x%04x)
 ;%s%s at 0x%04x (size 0x%04x)
 ;
 MSG_SIZE8
-%s%s à 0x08x (taille 0x%08x)
+%s à 0x%08x (taille 0x%08x)
 ;%s%s at 0x%08x (size 0x%08x)
+;
+MSG_SAVETORAMDISK
+Sauver les informations du périphérique sur le disque RAM
+; Save Device Information to RAM Disk
+;
+MSG_SAVEALLTORAMDISK
+Sauver toutes les informations PCI sur le disque RAM
+; Save complete PCI Information to RAM Disk
 ;
 MSG_UNUSED
 inutilisé
 ;--unused--
+;
+MSG_IO_BASE
+Base E/S :
+; I/O base:
+;
+MSG_OWNER
+Utilisé par :
+; Used by:
+;
+MSG_PCIE_DEVICE_INFO
+Info du périphérique PCIe
+; PCIe device info
+;
+MSG_PCIE_SERIAL_NUMBER
+Numéro de série PCIe
+; PCIe Serial Number
 ;

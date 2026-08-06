@@ -1,4 +1,4 @@
-## version $VER: PCITool.catalog 1.2 (21.01.2010)
+## version $VER: PCITool.catalog 2.0 (06.08.2026)
 ## language czech
 ## codeset 5
 ;
@@ -166,4 +166,20 @@ Ulo¾it ve¹keré zobrazené informace
 MSG_UNUSED
 -nepou¾ito-
 ; --unused--
+;
+MSG_IO_BASE
+Adresa I/O:
+; I/O base:
+;
+MSG_OWNER
+Pou¾ívá:
+; Used by:
+;
+MSG_PCIE_DEVICE_INFO
+Informace o zaøízení PCIe
+; PCIe device info
+;
+MSG_PCIE_SERIAL_NUMBER
+Sériové èíslo PCIe
+; PCIe Serial Number
 ;
