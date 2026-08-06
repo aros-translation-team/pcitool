@@ -1,0 +1,184 @@
+## version $VER: pcitool.catalog 2.0 (06.08.2026)
+## language russian
+## codeset 2104
+;
+MSG_TITLE
+PCI Tool
+; PCI Tool
+;
+MSG_WINTITLE
+PCI Tool
+; PCI Tool
+;
+MSG_DESCRIPTION
+Просмотр и управление PCI
+; PCI querying and managment
+;
+MSG_ERROR_LOCALE
+Не удалось открыть локализацию
+; Can't open locale
+;
+MSG_ERROR_OK
+Ок
+; Ok
+;
+MSG_ERROR_HEADER
+ОШИБКА
+; ERROR
+;
+MSG_DRIVER_INFO
+Сведения о драйвере
+; Driver info
+;
+MSG_DRIVER_NAME
+Имя драйвера:
+; Driver name:
+;
+MSG_DIRECT_BUS
+Прямая шина:
+; Direct bus:
+;
+MSG_HARDWARE_INFO
+Сведения об оборудовании:
+; Hardware info:
+;
+MSG_PCI_DEVICE_INFO
+Сведения об устройстве PCI
+; PCI device info
+;
+MSG_DEVICE_DESCRIPTION
+Описание:
+; Description:
+;
+MSG_VENDORNAME
+Название производителя:
+; Vendor Name:
+;
+MSG_PRODUCTNAME
+Название продукта:
+; Product Name:
+;
+MSG_SUBSYSTEM
+Подсистема:
+; Subsystem:
+;
+MSG_VENDORID
+ID производителя:
+; VendorID:
+;
+MSG_PRODUCTID
+ID продукта:
+; ProductID:
+;
+MSG_REVISIONID
+ID ревизии:
+; RevisionID:
+;
+MSG_INTERFACE
+Интерфейс:
+; Interface:
+;
+MSG_CLASS
+Класс:
+; Class:
+;
+MSG_SUBCLASS
+Подкласс:
+; Subclass:
+;
+MSG_IRQ
+IRQ:
+; IRQ:
+;
+MSG_ROM_BASE
+База ROM:
+; ROM Base:
+;
+MSG_ROM_SIZE
+Размер ROM:
+; ROM Size:
+;
+MSG_BRIDGE
+Мост обслуживает шину %d (ISA %sдоступна, VGA %sдоступна)
+; Bridge handles bus %d (ISA %senabled, VGA %senabled)
+;
+MSG_MEMORY_RANGE
+Диапазон памяти от %08x до %08x
+; Memory ranges from %08x to %08x
+;
+MSG_PREFETCHABLE_MEMORY
+Диапазон памяти с предвыборкой от %08x до %08x
+; Prefetchable ranges memory from %08x to %08x
+;
+MSG_IO_RANGE
+Диапазон IO от %04x до %04x
+; IO ranges from %04x to %04x
+;
+MSG_IO_MSG
+IO: %s, MEM: %s, Master: %s, PaletteSnoop: %s, поддержка 66МГц: %s
+; IO: %s, MEM: %s, Master: %s, PaletteSnoop: %s, 66MHz capable: %s
+;
+MSG_IO
+I/O
+; I/O
+;
+MSG_MEMORY
+Память
+; Memory
+;
+MSG_PREFETCHABLE
+Память с предвыборкой
+; Prefetchable Memory
+;
+MSG_YES
+да
+; yes
+;
+MSG_NO
+нет
+; no
+;
+MSG_NA
+Недоступно
+; N/A
+;
+MSG_NOT
+не
+; not
+;
+MSG_SIZE4
+%s по адресу 0x%04x (размер 0x%04x)
+; %s at 0x%04x (size 0x%04x)
+;
+MSG_SIZE8
+%s по адресу 0x%08x (размер 0x%08x)
+; %s at 0x%08x (size 0x%08x)
+;
+MSG_SAVETORAMDISK
+Сохранить сведения об устройстве на RAM Disk
+; Save Device Information to RAM Disk
+;
+MSG_SAVEALLTORAMDISK
+Сохранить все сведения о PCI на RAM Disk
+; Save complete PCI Information to RAM Disk
+;
+MSG_UNUSED
+--не используется--
+; --unused--
+;
+MSG_IO_BASE
+База I/O:
+; I/O base:
+;
+MSG_OWNER
+Используется:
+; Used by:
+;
+MSG_PCIE_DEVICE_INFO
+Сведения об устройстве PCIe
+; PCIe device info
+;
+MSG_PCIE_SERIAL_NUMBER
+Серийный номер PCIe
+; PCIe Serial Number
+;

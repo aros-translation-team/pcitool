@@ -1,0 +1,184 @@
+## version $VER: pcitool.catalog 2.0 (06.08.2026)
+## language magyar
+## codeset 5
+;
+MSG_TITLE
+PCI Tool
+; PCI Tool
+;
+MSG_WINTITLE
+PCI Tool
+; PCI Tool
+;
+MSG_DESCRIPTION
+PCI lekérdezés és kezelés
+; PCI querying and managment
+;
+MSG_ERROR_LOCALE
+Nem lehet megnyitni a locale-t
+; Can't open locale
+;
+MSG_ERROR_OK
+Rendben
+; Ok
+;
+MSG_ERROR_HEADER
+HIBA
+; ERROR
+;
+MSG_DRIVER_INFO
+Meghajtó információ
+; Driver info
+;
+MSG_DRIVER_NAME
+Meghajtó neve:
+; Driver name:
+;
+MSG_DIRECT_BUS
+Közvetlen busz:
+; Direct bus:
+;
+MSG_HARDWARE_INFO
+Hardver információ:
+; Hardware info:
+;
+MSG_PCI_DEVICE_INFO
+PCI eszköz információ
+; PCI device info
+;
+MSG_DEVICE_DESCRIPTION
+Leírás:
+; Description:
+;
+MSG_VENDORNAME
+Gyártó neve:
+; Vendor Name:
+;
+MSG_PRODUCTNAME
+Termék neve:
+; Product Name:
+;
+MSG_SUBSYSTEM
+Alrendszer:
+; Subsystem:
+;
+MSG_VENDORID
+Gyártóazonosító:
+; VendorID:
+;
+MSG_PRODUCTID
+Termékazonosító:
+; ProductID:
+;
+MSG_REVISIONID
+Revízióazonosító:
+; RevisionID:
+;
+MSG_INTERFACE
+Interfész:
+; Interface:
+;
+MSG_CLASS
+Osztály:
+; Class:
+;
+MSG_SUBCLASS
+Alosztály:
+; Subclass:
+;
+MSG_IRQ
+IRQ:
+; IRQ:
+;
+MSG_ROM_BASE
+ROM báziscím:
+; ROM Base:
+;
+MSG_ROM_SIZE
+ROM méret:
+; ROM Size:
+;
+MSG_BRIDGE
+A híd kezeli a(z) %d buszt (ISA %sengedélyezve, VGA %sengedélyezve)
+; Bridge handles bus %d (ISA %senabled, VGA %senabled)
+;
+MSG_MEMORY_RANGE
+Memóriatartomány %08x-tõl %08x-ig
+; Memory ranges from %08x to %08x
+;
+MSG_PREFETCHABLE_MEMORY
+Elõtölthetõ memóriatartomány %08x-tõl %08x-ig
+; Prefetchable ranges memory from %08x to %08x
+;
+MSG_IO_RANGE
+IO tartomány %04x-tõl %04x-ig
+; IO ranges from %04x to %04x
+;
+MSG_IO_MSG
+IO: %s, MEM: %s, Master: %s, PaletteSnoop: %s, 66MHz képes: %s
+; IO: %s, MEM: %s, Master: %s, PaletteSnoop: %s, 66MHz capable: %s
+;
+MSG_IO
+I/O
+; I/O
+;
+MSG_MEMORY
+Memória
+; Memory
+;
+MSG_PREFETCHABLE
+Elõtölthetõ memória
+; Prefetchable Memory
+;
+MSG_YES
+igen
+; yes
+;
+MSG_NO
+nem
+; no
+;
+MSG_NA
+N/A
+; N/A
+;
+MSG_NOT
+nem
+; not
+;
+MSG_SIZE4
+%s itt: 0x%04x (méret 0x%04x)
+; %s at 0x%04x (size 0x%04x)
+;
+MSG_SIZE8
+%s itt: 0x%08x (méret 0x%08x)
+; %s at 0x%08x (size 0x%08x)
+;
+MSG_SAVETORAMDISK
+Eszközinformáció mentése a RAM lemezre
+; Save Device Information to RAM Disk
+;
+MSG_SAVEALLTORAMDISK
+Teljes PCI információ mentése a RAM lemezre
+; Save complete PCI Information to RAM Disk
+;
+MSG_UNUSED
+--nem használt--
+; --unused--
+;
+MSG_IO_BASE
+I/O báziscím:
+; I/O base:
+;
+MSG_OWNER
+Használja:
+; Used by:
+;
+MSG_PCIE_DEVICE_INFO
+PCIe eszköz információ
+; PCIe device info
+;
+MSG_PCIE_SERIAL_NUMBER
+PCIe sorozatszám
+; PCIe Serial Number
+;

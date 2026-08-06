@@ -1,0 +1,184 @@
+## version $VER: pcitool.catalog 2.0 (06.08.2026)
+## language türkçe
+## codeset 12
+;
+MSG_TITLE
+PCI Aracý
+; PCI Tool
+;
+MSG_WINTITLE
+PCI Aracý
+; PCI Tool
+;
+MSG_DESCRIPTION
+PCI sorgulama ve yönetim
+; PCI querying and managment
+;
+MSG_ERROR_LOCALE
+Yerel ayar açýlamýyor
+; Can't open locale
+;
+MSG_ERROR_OK
+Tamam
+; Ok
+;
+MSG_ERROR_HEADER
+HATA
+; ERROR
+;
+MSG_DRIVER_INFO
+Sürücü bilgisi
+; Driver info
+;
+MSG_DRIVER_NAME
+Sürücü adý:
+; Driver name:
+;
+MSG_DIRECT_BUS
+Doðrudan veri yolu:
+; Direct bus:
+;
+MSG_HARDWARE_INFO
+Donaným bilgisi:
+; Hardware info:
+;
+MSG_PCI_DEVICE_INFO
+PCI aygýt bilgisi
+; PCI device info
+;
+MSG_DEVICE_DESCRIPTION
+Açýklama:
+; Description:
+;
+MSG_VENDORNAME
+Üretici Adý:
+; Vendor Name:
+;
+MSG_PRODUCTNAME
+Ürün Adý:
+; Product Name:
+;
+MSG_SUBSYSTEM
+Alt sistem:
+; Subsystem:
+;
+MSG_VENDORID
+Üretici Kimliði:
+; VendorID:
+;
+MSG_PRODUCTID
+Ürün Kimliði:
+; ProductID:
+;
+MSG_REVISIONID
+Revizyon Kimliði:
+; RevisionID:
+;
+MSG_INTERFACE
+Arayüz:
+; Interface:
+;
+MSG_CLASS
+Sýnýf:
+; Class:
+;
+MSG_SUBCLASS
+Alt sýnýf:
+; Subclass:
+;
+MSG_IRQ
+IRQ:
+; IRQ:
+;
+MSG_ROM_BASE
+ROM Tabaný:
+; ROM Base:
+;
+MSG_ROM_SIZE
+ROM Boyutu:
+; ROM Size:
+;
+MSG_BRIDGE
+Köprü %d veri yolunu yönetir (ISA %setkin, VGA %setkin)
+; Bridge handles bus %d (ISA %senabled, VGA %senabled)
+;
+MSG_MEMORY_RANGE
+Bellek aralýðý %08x ile %08x arasý
+; Memory ranges from %08x to %08x
+;
+MSG_PREFETCHABLE_MEMORY
+Ön getirilebilir bellek aralýðý %08x ile %08x arasý
+; Prefetchable ranges memory from %08x to %08x
+;
+MSG_IO_RANGE
+IO aralýðý %04x ile %04x arasý
+; IO ranges from %04x to %04x
+;
+MSG_IO_MSG
+IO: %s, MEM: %s, Master: %s, PaletteSnoop: %s, 66MHz uyumlu: %s
+; IO: %s, MEM: %s, Master: %s, PaletteSnoop: %s, 66MHz capable: %s
+;
+MSG_IO
+I/O
+; I/O
+;
+MSG_MEMORY
+Bellek
+; Memory
+;
+MSG_PREFETCHABLE
+Ön Getirilebilir Bellek
+; Prefetchable Memory
+;
+MSG_YES
+evet
+; yes
+;
+MSG_NO
+hayýr
+; no
+;
+MSG_NA
+Yok
+; N/A
+;
+MSG_NOT
+deðil
+; not
+;
+MSG_SIZE4
+%s 0x%04x adresinde (boyut 0x%04x)
+; %s at 0x%04x (size 0x%04x)
+;
+MSG_SIZE8
+%s 0x%08x adresinde (boyut 0x%08x)
+; %s at 0x%08x (size 0x%08x)
+;
+MSG_SAVETORAMDISK
+Aygýt Bilgisini RAM Disk'e Kaydet
+; Save Device Information to RAM Disk
+;
+MSG_SAVEALLTORAMDISK
+Tüm PCI Bilgisini RAM Disk'e Kaydet
+; Save complete PCI Information to RAM Disk
+;
+MSG_UNUSED
+--kullanýlmýyor--
+; --unused--
+;
+MSG_IO_BASE
+I/O tabaný:
+; I/O base:
+;
+MSG_OWNER
+Kullanan:
+; Used by:
+;
+MSG_PCIE_DEVICE_INFO
+PCIe aygýt bilgisi
+; PCIe device info
+;
+MSG_PCIE_SERIAL_NUMBER
+PCIe Seri Numarasý
+; PCIe Serial Number
+;

@@ -1,0 +1,184 @@
+## version $VER: pcitool.catalog 2.0 (06.08.2026)
+## language català
+## codeset 0
+;
+MSG_TITLE
+Eina PCI
+; PCI Tool
+;
+MSG_WINTITLE
+Eina PCI
+; PCI Tool
+;
+MSG_DESCRIPTION
+Consulta i gestió de PCI
+; PCI querying and managment
+;
+MSG_ERROR_LOCALE
+No es pot obrir el locale
+; Can't open locale
+;
+MSG_ERROR_OK
+D'acord
+; Ok
+;
+MSG_ERROR_HEADER
+ERROR
+; ERROR
+;
+MSG_DRIVER_INFO
+Informació del controlador
+; Driver info
+;
+MSG_DRIVER_NAME
+Nom del controlador:
+; Driver name:
+;
+MSG_DIRECT_BUS
+Bus directe:
+; Direct bus:
+;
+MSG_HARDWARE_INFO
+Informació del maquinari:
+; Hardware info:
+;
+MSG_PCI_DEVICE_INFO
+Informació del dispositiu PCI
+; PCI device info
+;
+MSG_DEVICE_DESCRIPTION
+Descripció:
+; Description:
+;
+MSG_VENDORNAME
+Nom del fabricant:
+; Vendor Name:
+;
+MSG_PRODUCTNAME
+Nom del producte:
+; Product Name:
+;
+MSG_SUBSYSTEM
+Subsistema:
+; Subsystem:
+;
+MSG_VENDORID
+ID de fabricant:
+; VendorID:
+;
+MSG_PRODUCTID
+ID de producte:
+; ProductID:
+;
+MSG_REVISIONID
+ID de revisió:
+; RevisionID:
+;
+MSG_INTERFACE
+Interfície:
+; Interface:
+;
+MSG_CLASS
+Classe:
+; Class:
+;
+MSG_SUBCLASS
+Subclasse:
+; Subclass:
+;
+MSG_IRQ
+IRQ:
+; IRQ:
+;
+MSG_ROM_BASE
+Base de la ROM:
+; ROM Base:
+;
+MSG_ROM_SIZE
+Mida de la ROM:
+; ROM Size:
+;
+MSG_BRIDGE
+El pont gestiona el bus %d (ISA %sactivat, VGA %sactivat)
+; Bridge handles bus %d (ISA %senabled, VGA %senabled)
+;
+MSG_MEMORY_RANGE
+Rang de memòria de %08x a %08x
+; Memory ranges from %08x to %08x
+;
+MSG_PREFETCHABLE_MEMORY
+Rang de memòria precarregable de %08x a %08x
+; Prefetchable ranges memory from %08x to %08x
+;
+MSG_IO_RANGE
+Rang d'E/S de %04x a %04x
+; IO ranges from %04x to %04x
+;
+MSG_IO_MSG
+E/S: %s, MEM: %s, Màster: %s, PaletteSnoop: %s, compatible amb 66MHz: %s
+; IO: %s, MEM: %s, Master: %s, PaletteSnoop: %s, 66MHz capable: %s
+;
+MSG_IO
+E/S
+; I/O
+;
+MSG_MEMORY
+Memòria
+; Memory
+;
+MSG_PREFETCHABLE
+Memòria precarregable
+; Prefetchable Memory
+;
+MSG_YES
+sí
+; yes
+;
+MSG_NO
+no
+; no
+;
+MSG_NA
+N/D
+; N/A
+;
+MSG_NOT
+no
+; not
+;
+MSG_SIZE4
+%s a 0x%04x (mida 0x%04x)
+; %s at 0x%04x (size 0x%04x)
+;
+MSG_SIZE8
+%s a 0x%08x (mida 0x%08x)
+; %s at 0x%08x (size 0x%08x)
+;
+MSG_SAVETORAMDISK
+Desar la informació del dispositiu al disc RAM
+; Save Device Information to RAM Disk
+;
+MSG_SAVEALLTORAMDISK
+Desar tota la informació PCI al disc RAM
+; Save complete PCI Information to RAM Disk
+;
+MSG_UNUSED
+--no usat--
+; --unused--
+;
+MSG_IO_BASE
+Base d'E/S:
+; I/O base:
+;
+MSG_OWNER
+Usat per:
+; Used by:
+;
+MSG_PCIE_DEVICE_INFO
+Informació del dispositiu PCIe
+; PCIe device info
+;
+MSG_PCIE_SERIAL_NUMBER
+Número de sèrie PCIe
+; PCIe Serial Number
+;

@@ -1,0 +1,184 @@
+## version $VER: pcitool.catalog 2.0 (06.08.2026)
+## language svenska
+## codeset 0
+;
+MSG_TITLE
+PCI Tool
+; PCI Tool
+;
+MSG_WINTITLE
+PCI Tool
+; PCI Tool
+;
+MSG_DESCRIPTION
+PCI-förfrågan och hantering
+; PCI querying and managment
+;
+MSG_ERROR_LOCALE
+Kan inte öppna locale
+; Can't open locale
+;
+MSG_ERROR_OK
+OK
+; Ok
+;
+MSG_ERROR_HEADER
+FEL
+; ERROR
+;
+MSG_DRIVER_INFO
+Drivrutinsinfo
+; Driver info
+;
+MSG_DRIVER_NAME
+Drivrutinsnamn:
+; Driver name:
+;
+MSG_DIRECT_BUS
+Direktbuss:
+; Direct bus:
+;
+MSG_HARDWARE_INFO
+Hårdvaruinfo:
+; Hardware info:
+;
+MSG_PCI_DEVICE_INFO
+PCI-enhetsinfo
+; PCI device info
+;
+MSG_DEVICE_DESCRIPTION
+Beskrivning:
+; Description:
+;
+MSG_VENDORNAME
+Tillverkarnamn:
+; Vendor Name:
+;
+MSG_PRODUCTNAME
+Produktnamn:
+; Product Name:
+;
+MSG_SUBSYSTEM
+Undersystem:
+; Subsystem:
+;
+MSG_VENDORID
+Tillverkar-ID:
+; VendorID:
+;
+MSG_PRODUCTID
+Produkt-ID:
+; ProductID:
+;
+MSG_REVISIONID
+Revisions-ID:
+; RevisionID:
+;
+MSG_INTERFACE
+Gränssnitt:
+; Interface:
+;
+MSG_CLASS
+Klass:
+; Class:
+;
+MSG_SUBCLASS
+Underklass:
+; Subclass:
+;
+MSG_IRQ
+IRQ:
+; IRQ:
+;
+MSG_ROM_BASE
+ROM-bas:
+; ROM Base:
+;
+MSG_ROM_SIZE
+ROM-storlek:
+; ROM Size:
+;
+MSG_BRIDGE
+Bryggan hanterar buss %d (ISA %saktiverad, VGA %saktiverad)
+; Bridge handles bus %d (ISA %senabled, VGA %senabled)
+;
+MSG_MEMORY_RANGE
+Minne sträcker sig från %08x till %08x
+; Memory ranges from %08x to %08x
+;
+MSG_PREFETCHABLE_MEMORY
+Förhämtningsbart minne sträcker sig från %08x till %08x
+; Prefetchable ranges memory from %08x to %08x
+;
+MSG_IO_RANGE
+IO sträcker sig från %04x till %04x
+; IO ranges from %04x to %04x
+;
+MSG_IO_MSG
+IO: %s, MEM: %s, Master: %s, PaletteSnoop: %s, 66MHz-kapabel: %s
+; IO: %s, MEM: %s, Master: %s, PaletteSnoop: %s, 66MHz capable: %s
+;
+MSG_IO
+I/O
+; I/O
+;
+MSG_MEMORY
+Minne
+; Memory
+;
+MSG_PREFETCHABLE
+Förhämtningsbart minne
+; Prefetchable Memory
+;
+MSG_YES
+ja
+; yes
+;
+MSG_NO
+nej
+; no
+;
+MSG_NA
+N/A
+; N/A
+;
+MSG_NOT
+ej
+; not
+;
+MSG_SIZE4
+%s på 0x%04x (storlek 0x%04x)
+; %s at 0x%04x (size 0x%04x)
+;
+MSG_SIZE8
+%s på 0x%08x (storlek 0x%08x)
+; %s at 0x%08x (size 0x%08x)
+;
+MSG_SAVETORAMDISK
+Spara enhetsinformation till RAM Disk
+; Save Device Information to RAM Disk
+;
+MSG_SAVEALLTORAMDISK
+Spara fullständig PCI-information till RAM Disk
+; Save complete PCI Information to RAM Disk
+;
+MSG_UNUSED
+--oanvänd--
+; --unused--
+;
+MSG_IO_BASE
+I/O-bas:
+; I/O base:
+;
+MSG_OWNER
+Används av:
+; Used by:
+;
+MSG_PCIE_DEVICE_INFO
+PCIe-enhetsinfo
+; PCIe device info
+;
+MSG_PCIE_SERIAL_NUMBER
+PCIe-serienummer
+; PCIe Serial Number
+;

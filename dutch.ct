@@ -1,0 +1,184 @@
+## version $VER: pcitool.catalog 2.0 (06.08.2026)
+## language nederlands
+## codeset 0
+;
+MSG_TITLE
+PCI Tool
+; PCI Tool
+;
+MSG_WINTITLE
+PCI Tool
+; PCI Tool
+;
+MSG_DESCRIPTION
+PCI opvragen en beheren
+; PCI querying and managment
+;
+MSG_ERROR_LOCALE
+Kan locale niet openen
+; Can't open locale
+;
+MSG_ERROR_OK
+Ok
+; Ok
+;
+MSG_ERROR_HEADER
+FOUT
+; ERROR
+;
+MSG_DRIVER_INFO
+Driver-info
+; Driver info
+;
+MSG_DRIVER_NAME
+Drivernaam:
+; Driver name:
+;
+MSG_DIRECT_BUS
+Directe bus:
+; Direct bus:
+;
+MSG_HARDWARE_INFO
+Hardware-info:
+; Hardware info:
+;
+MSG_PCI_DEVICE_INFO
+PCI-apparaatinfo
+; PCI device info
+;
+MSG_DEVICE_DESCRIPTION
+Beschrijving:
+; Description:
+;
+MSG_VENDORNAME
+Fabrikantnaam:
+; Vendor Name:
+;
+MSG_PRODUCTNAME
+Productnaam:
+; Product Name:
+;
+MSG_SUBSYSTEM
+Subsysteem:
+; Subsystem:
+;
+MSG_VENDORID
+Fabrikant-ID:
+; VendorID:
+;
+MSG_PRODUCTID
+Product-ID:
+; ProductID:
+;
+MSG_REVISIONID
+Revisie-ID:
+; RevisionID:
+;
+MSG_INTERFACE
+Interface:
+; Interface:
+;
+MSG_CLASS
+Klasse:
+; Class:
+;
+MSG_SUBCLASS
+Subklasse:
+; Subclass:
+;
+MSG_IRQ
+IRQ:
+; IRQ:
+;
+MSG_ROM_BASE
+ROM-basis:
+; ROM Base:
+;
+MSG_ROM_SIZE
+ROM-grootte:
+; ROM Size:
+;
+MSG_BRIDGE
+Bridge beheert bus %d (ISA %sactief, VGA %sactief)
+; Bridge handles bus %d (ISA %senabled, VGA %senabled)
+;
+MSG_MEMORY_RANGE
+Geheugenbereik van %08x tot %08x
+; Memory ranges from %08x to %08x
+;
+MSG_PREFETCHABLE_MEMORY
+Prefetchbaar geheugenbereik van %08x tot %08x
+; Prefetchable ranges memory from %08x to %08x
+;
+MSG_IO_RANGE
+IO-bereik van %04x tot %04x
+; IO ranges from %04x to %04x
+;
+MSG_IO_MSG
+IO: %s, MEM: %s, Master: %s, PaletteSnoop: %s, 66MHz geschikt: %s
+; IO: %s, MEM: %s, Master: %s, PaletteSnoop: %s, 66MHz capable: %s
+;
+MSG_IO
+I/O
+; I/O
+;
+MSG_MEMORY
+Geheugen
+; Memory
+;
+MSG_PREFETCHABLE
+Prefetchbaar geheugen
+; Prefetchable Memory
+;
+MSG_YES
+ja
+; yes
+;
+MSG_NO
+nee
+; no
+;
+MSG_NA
+N.v.t.
+; N/A
+;
+MSG_NOT
+in
+; not
+;
+MSG_SIZE4
+%s op 0x%04x (grootte 0x%04x)
+; %s at 0x%04x (size 0x%04x)
+;
+MSG_SIZE8
+%s op 0x%08x (grootte 0x%08x)
+; %s at 0x%08x (size 0x%08x)
+;
+MSG_SAVETORAMDISK
+Apparaatinformatie bewaren naar RAM Disk
+; Save Device Information to RAM Disk
+;
+MSG_SAVEALLTORAMDISK
+Volledige PCI-informatie bewaren naar RAM Disk
+; Save complete PCI Information to RAM Disk
+;
+MSG_UNUSED
+--ongebruikt--
+; --unused--
+;
+MSG_IO_BASE
+I/O-basis:
+; I/O base:
+;
+MSG_OWNER
+Gebruikt door:
+; Used by:
+;
+MSG_PCIE_DEVICE_INFO
+PCIe-apparaatinfo
+; PCIe device info
+;
+MSG_PCIE_SERIAL_NUMBER
+PCIe-serienummer
+; PCIe Serial Number
+;

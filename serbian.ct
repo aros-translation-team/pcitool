@@ -1,0 +1,184 @@
+## version $VER: pcitool.catalog 2.0 (06.08.2026)
+## language srpski
+## codeset 8
+;
+MSG_TITLE
+PCI Tool
+; PCI Tool
+;
+MSG_WINTITLE
+PCI Tool
+; PCI Tool
+;
+MSG_DESCRIPTION
+Pregled i upravljanje PCI ure–ajima
+; PCI querying and managment
+;
+MSG_ERROR_LOCALE
+Ne mogu da otvorim locale
+; Can't open locale
+;
+MSG_ERROR_OK
+Ok
+; Ok
+;
+MSG_ERROR_HEADER
+GREÊKA
+; ERROR
+;
+MSG_DRIVER_INFO
+Podaci o drajveru
+; Driver info
+;
+MSG_DRIVER_NAME
+Ime drajvera:
+; Driver name:
+;
+MSG_DIRECT_BUS
+Direktna magistrala:
+; Direct bus:
+;
+MSG_HARDWARE_INFO
+Podaci o hardveru:
+; Hardware info:
+;
+MSG_PCI_DEVICE_INFO
+Podaci o PCI ure–aju
+; PCI device info
+;
+MSG_DEVICE_DESCRIPTION
+Opis:
+; Description:
+;
+MSG_VENDORNAME
+Ime proizvo–aüa:
+; Vendor Name:
+;
+MSG_PRODUCTNAME
+Ime proizvoda:
+; Product Name:
+;
+MSG_SUBSYSTEM
+Podsistem:
+; Subsystem:
+;
+MSG_VENDORID
+VendorID:
+; VendorID:
+;
+MSG_PRODUCTID
+ProductID:
+; ProductID:
+;
+MSG_REVISIONID
+RevisionID:
+; RevisionID:
+;
+MSG_INTERFACE
+Interfejs:
+; Interface:
+;
+MSG_CLASS
+Klasa:
+; Class:
+;
+MSG_SUBCLASS
+Potklasa:
+; Subclass:
+;
+MSG_IRQ
+IRQ:
+; IRQ:
+;
+MSG_ROM_BASE
+ROM baza:
+; ROM Base:
+;
+MSG_ROM_SIZE
+ROM veliüina:
+; ROM Size:
+;
+MSG_BRIDGE
+Most upravlja magistralom %d (ISA %somoguÜen, VGA %somoguÜen)
+; Bridge handles bus %d (ISA %senabled, VGA %senabled)
+;
+MSG_MEMORY_RANGE
+Memorijski opseg od %08x do %08x
+; Memory ranges from %08x to %08x
+;
+MSG_PREFETCHABLE_MEMORY
+Opseg memorije sa preduüitavanjem od %08x do %08x
+; Prefetchable ranges memory from %08x to %08x
+;
+MSG_IO_RANGE
+IO opseg od %04x do %04x
+; IO ranges from %04x to %04x
+;
+MSG_IO_MSG
+IO: %s, MEM: %s, Master: %s, PaletteSnoop: %s, podrßava 66MHz: %s
+; IO: %s, MEM: %s, Master: %s, PaletteSnoop: %s, 66MHz capable: %s
+;
+MSG_IO
+I/O
+; I/O
+;
+MSG_MEMORY
+Memorija
+; Memory
+;
+MSG_PREFETCHABLE
+Memorija sa preduüitavanjem
+; Prefetchable Memory
+;
+MSG_YES
+da
+; yes
+;
+MSG_NO
+ne
+; no
+;
+MSG_NA
+N/D
+; N/A
+;
+MSG_NOT
+nije
+; not
+;
+MSG_SIZE4
+%s na 0x%04x (veliüina 0x%04x)
+; %s at 0x%04x (size 0x%04x)
+;
+MSG_SIZE8
+%s na 0x%08x (veliüina 0x%08x)
+; %s at 0x%08x (size 0x%08x)
+;
+MSG_SAVETORAMDISK
+Snimi podatke o ure–aju na RAM disk
+; Save Device Information to RAM Disk
+;
+MSG_SAVEALLTORAMDISK
+Snimi kompletne PCI podatke na RAM disk
+; Save complete PCI Information to RAM Disk
+;
+MSG_UNUSED
+--neiskoriÁÜeno--
+; --unused--
+;
+MSG_IO_BASE
+I/O baza:
+; I/O base:
+;
+MSG_OWNER
+Koristi:
+; Used by:
+;
+MSG_PCIE_DEVICE_INFO
+Podaci o PCIe ure–aju
+; PCIe device info
+;
+MSG_PCIE_SERIAL_NUMBER
+PCIe serijski broj
+; PCIe Serial Number
+;

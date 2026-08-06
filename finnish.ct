@@ -1,0 +1,184 @@
+## version $VER: pcitool.catalog 2.0 (06.08.2026)
+## language suomi
+## codeset 0
+;
+MSG_TITLE
+PCI-työkalu
+; PCI Tool
+;
+MSG_WINTITLE
+PCI-työkalu
+; PCI Tool
+;
+MSG_DESCRIPTION
+PCI-laitteiden kysely ja hallinta
+; PCI querying and managment
+;
+MSG_ERROR_LOCALE
+Kielitietoja ei voi avata
+; Can't open locale
+;
+MSG_ERROR_OK
+Selvä
+; Ok
+;
+MSG_ERROR_HEADER
+VIRHE
+; ERROR
+;
+MSG_DRIVER_INFO
+Ajurin tiedot
+; Driver info
+;
+MSG_DRIVER_NAME
+Ajurin nimi:
+; Driver name:
+;
+MSG_DIRECT_BUS
+Suora väylä:
+; Direct bus:
+;
+MSG_HARDWARE_INFO
+Laitteiston tiedot:
+; Hardware info:
+;
+MSG_PCI_DEVICE_INFO
+PCI-laitteen tiedot
+; PCI device info
+;
+MSG_DEVICE_DESCRIPTION
+Kuvaus:
+; Description:
+;
+MSG_VENDORNAME
+Valmistajan nimi:
+; Vendor Name:
+;
+MSG_PRODUCTNAME
+Tuotteen nimi:
+; Product Name:
+;
+MSG_SUBSYSTEM
+Alijärjestelmä:
+; Subsystem:
+;
+MSG_VENDORID
+Valmistaja-ID:
+; VendorID:
+;
+MSG_PRODUCTID
+Tuote-ID:
+; ProductID:
+;
+MSG_REVISIONID
+Revisio-ID:
+; RevisionID:
+;
+MSG_INTERFACE
+Liitäntä:
+; Interface:
+;
+MSG_CLASS
+Luokka:
+; Class:
+;
+MSG_SUBCLASS
+Alaluokka:
+; Subclass:
+;
+MSG_IRQ
+IRQ:
+; IRQ:
+;
+MSG_ROM_BASE
+ROM-kanta:
+; ROM Base:
+;
+MSG_ROM_SIZE
+ROM-koko:
+; ROM Size:
+;
+MSG_BRIDGE
+Silta hallitsee väylää %d (ISA %skäytössä, VGA %skäytössä)
+; Bridge handles bus %d (ISA %senabled, VGA %senabled)
+;
+MSG_MEMORY_RANGE
+Muistialue %08x - %08x
+; Memory ranges from %08x to %08x
+;
+MSG_PREFETCHABLE_MEMORY
+Ennaltahaettava muistialue %08x - %08x
+; Prefetchable ranges memory from %08x to %08x
+;
+MSG_IO_RANGE
+IO-alue %04x - %04x
+; IO ranges from %04x to %04x
+;
+MSG_IO_MSG
+IO: %s, MEM: %s, Master: %s, PaletteSnoop: %s, 66MHz-tuki: %s
+; IO: %s, MEM: %s, Master: %s, PaletteSnoop: %s, 66MHz capable: %s
+;
+MSG_IO
+I/O
+; I/O
+;
+MSG_MEMORY
+Muisti
+; Memory
+;
+MSG_PREFETCHABLE
+Ennaltahaettava muisti
+; Prefetchable Memory
+;
+MSG_YES
+kyllä
+; yes
+;
+MSG_NO
+ei
+; no
+;
+MSG_NA
+Ei saatavilla
+; N/A
+;
+MSG_NOT
+ei
+; not
+;
+MSG_SIZE4
+%s osoitteessa 0x%04x (koko 0x%04x)
+; %s at 0x%04x (size 0x%04x)
+;
+MSG_SIZE8
+%s osoitteessa 0x%08x (koko 0x%08x)
+; %s at 0x%08x (size 0x%08x)
+;
+MSG_SAVETORAMDISK
+Tallenna laitteen tiedot RAM-levylle
+; Save Device Information to RAM Disk
+;
+MSG_SAVEALLTORAMDISK
+Tallenna kaikki PCI-tiedot RAM-levylle
+; Save complete PCI Information to RAM Disk
+;
+MSG_UNUSED
+--ei käytössä--
+; --unused--
+;
+MSG_IO_BASE
+I/O-kanta:
+; I/O base:
+;
+MSG_OWNER
+Omistaja:
+; Used by:
+;
+MSG_PCIE_DEVICE_INFO
+PCIe-laitteen tiedot
+; PCIe device info
+;
+MSG_PCIE_SERIAL_NUMBER
+PCIe-sarjanumero
+; PCIe Serial Number
+;
